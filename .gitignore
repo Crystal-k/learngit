@@ -14,3 +14,12 @@ build
 # My configurations:
 db.ini
 deploy_key_rsa
+
+[alias]
+    co = checkout
+    ci = commit
+    br = branch
+    st = status
+[user]
+    name = Crystal-k
+    email = 1306954015@qq.com
